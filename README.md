@@ -1,12 +1,12 @@
 # Laptop Sales Data Analysis
 
-##Project Overview
+## Project Overview
 
 This project analyzes a sales dataset containing 2,000 sales transactions** to identify sales trends, revenue performance, customer behavior, product performance, and regional differences.
 
 The project was created as part of my Data Analytics portfolio to demonstrate my ability to work with real-world business data, perform data analysis, and communicate insights using data.
 
-##Objectives
+## Objectives
 
 The main objectives of this project were to:
 
@@ -18,14 +18,14 @@ The main objectives of this project were to:
 - Examine the relationship between quantity, price, discounts, and revenue
 - Identify patterns that could support business decision-making
 
-##Tools Used
+## Tools Used
 
 - **Microsoft Excel** – Data analysis and visualization
 - **Pivot Tables** – Summarizing sales performance
 - **Charts & Dashboards** – Visualizing key findings
 - **Data Cleaning** – Preparing the dataset for analysis
 
-##Key Analysis
+## Key Analysis
 
 ### Revenue Performance
 
@@ -69,7 +69,7 @@ The **Online channel** generated the highest revenue.
 
 Returning customers generated significantly more revenue than new customers, highlighting the importance of customer retention and repeat purchases.
 
-##Dashboard
+## Dashboard
 
 The project includes an Excel dashboard designed to provide a visual overview of:
 
@@ -80,7 +80,7 @@ The project includes an Excel dashboard designed to provide a visual overview of
 - Customer Type Performance
 - Sales Trends
 
-##Key Insights
+## Key Insights
 
 Some of the main findings from the analysis include:
 
