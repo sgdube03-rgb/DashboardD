@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes a sales dataset containing 2,000 sales transactions** to identify sales trends, revenue performance, customer behavior, product performance, and regional differences.
+This project analyzes a sales dataset containing 2,000 sales transactions to identify sales trends, revenue performance, customer behavior, product performance, and regional differences.
 
 The project was created as part of my Data Analytics portfolio to demonstrate my ability to work with real-world business data, perform data analysis, and communicate insights using data.
 
@@ -89,6 +89,8 @@ Some of the main findings from the analysis include:
 - The North region recorded the highest revenue.
 - Returning customers contributed substantially more revenue than new customers.
 - Revenue performance varies considerably across products, regions, and sales channels.
+
+<img width="1294" height="696" alt="image" src="https://github.com/user-attachments/assets/765b4227-bb19-47f7-9f21-a8fc246329e3" />
 
 
 
